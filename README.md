@@ -52,5 +52,3 @@ I am a passionate Machine Learning Engineer with a desire to explore the Data & 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/csenge-szabo/csenge-szabo/blob/output/github-contribution-grid-snake.svg)
-
