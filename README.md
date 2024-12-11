@@ -1,18 +1,39 @@
-## Hi, it's Csenge here! 👋
+<p align="center">
+Hi, it's Csenge here! 👋
+</p>
 
 I am a passionate Machine Learning Engineer with a desire to explore the Data & AI world one step at a time.
 
 #### About me
 
-🔭 I’m currently working on an MLOps demo project with Azure Machine Learning Studio, GitHub Actions and Kubernetes.
+```yaml
+name: Csenge Szabo
+located_in: Vienna, Austria
+current_job: Machine Learning Engineer Intern
+education:
+  [
+    "Master's in Language and AI",
+    "Postgraduate Degree in Translation"
+    "Bachelor's in Linguistics and Literature"
+  ]
+company: Crayon
+fields_of_interests:
+  [
+    "Data Science",
+    "Machine Learning",
+    "MLOps",
+    "Web App Development",
+    "Responsible AI"
+  ]
+technical_background:
+  [
+    "Intern - Machine Learning Engineer at Crayon"
+    "Intern - Data Scientist at MarketResponse",
+  ]
+currently_learing: ["Docker", "Kubernetes", "Azure Machine Learning"]
+hobbies: ["Running", "Travelling", "Baking"]
+```
 
-🌱 I’m currently learning about cloud computing practices.
-
-👯 I’m looking to collaborate on NLP projects with a positive impact on society.
-
-💬 Ask me about Computational Linguistics, NLP, Translation, Education, Culture.
-
-💻 Current interests: multimodal models, responsible AI, LLMs.
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/szabo-csenge/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
