@@ -4,7 +4,7 @@ I am a passionate Machine Learning Engineer with a desire to explore the Data & 
 
 #### About me
 
-🔭 I’m currently working on an MLOps demo project with Azure Machine Learning studio, GitHub Actions and Kubernetes.
+🔭 I’m currently working on an MLOps demo project with Azure Machine Learning Studio, GitHub Actions and Kubernetes.
 
 🌱 I’m currently learning about cloud computing practices.
 
