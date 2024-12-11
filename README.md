@@ -37,7 +37,7 @@ technical_background:
     "Intern - Data Scientist at MarketResponse",
   ]
 currently_learing: ["Docker", "Kubernetes", "Azure Machine Learning"]
-hobbies: ["Running", "Travelling", "Baking"]
+hobbies: ["Running", "Travelling", "Reading"]
 ```
 
 ---  
