@@ -8,7 +8,7 @@
 
 <p align="center">I am a passionate Machine Learning Engineer with a desire to explore the Data & AI world one step at a time.</p>
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me </h2>
+<h2> 👋 &nbsp;A Little Bit About Me </h2>
 
 
 ```yaml
