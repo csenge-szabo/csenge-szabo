@@ -69,6 +69,9 @@ hobbies: ["Running", "Travelling", "Reading"]
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+
 </p>
 
 <h2> 🔗 &nbsp;Version Control and Cloud Computing Tools</h2>
