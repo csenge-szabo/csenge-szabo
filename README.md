@@ -1,4 +1,4 @@
-# Hi, I'm Csenge 👋
+# Welcome! 👋
 
 **AI Engineer** at [onefold.ai](https://onefold.ai) · Based in Vienna, Austria
 
