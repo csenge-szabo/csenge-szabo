@@ -4,11 +4,7 @@
 
 ---
 
-I'm an AI Engineer driven by an interest in the intersection of language, data, and intelligent systems. I hold a Master's degree with *cum laude* distinction in Language and AI from Vrije Universiteit Amsterdam and bring over two years of experience across machine learning engineering, data science, and consultancy.
-
-In my current role, I build and deploy AI/ML solutions and agentic systems for enterprise customers, working across the full ML lifecycle — from data processing and model development to cloud infrastructure, observability, and monitoring on Azure and GCP. My experience includes building RAG-based systems, AI agents, and designing custom AI solutions to solve unique customer needs.
-
-I'm passionate about developing impactful solutions for complex, real-world challenges. My interests lie in promoting responsible AI practices, exploring agentic and multimodal AI, and leveraging technology for meaningful societal change. When I'm not at the keyboard, you'll find me traveling or running, drawing inspiration from the cultures and people I encounter along the way.
+I build and deploy AI/ML solutions and agentic systems for enterprise customers — from RAG pipelines and AI agents to cloud infrastructure and monitoring on Azure and GCP. I'm passionate about responsible AI, multi-agentic systems, and using technology for meaningful societal impact.
 
 ---
 
