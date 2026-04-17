@@ -4,7 +4,7 @@
 
 ---
 
-I build and deploy AI/ML solutions and agentic systems for enterprise customers — from RAG pipelines and AI agents to cloud infrastructure and monitoring on Azure and GCP. I'm passionate about responsible AI, multi-agentic systems, and using technology for meaningful societal impact.
+I build and deploy AI/ML solutions and agentic systems for enterprise customers — from RAG pipelines and AI agents to cloud infrastructure and monitoring on Azure and GCP. Apart from developing custom solutions for our customers, I contribute to internal product design and product development. I'm passionate about responsible AI, multi-agentic systems, and using technology for meaningful societal impact.
 
 ---
 
